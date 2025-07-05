@@ -170,7 +170,7 @@ def actualizar_crono():
 def añadir_5():
     global tiempo_restante
     if tiempo_restante < 5400:
-        tiempo_restante += 1 * 60  # 5 minutos en segundos
+        tiempo_restante += 5 * 60  # 5 minutos en segundos
     else:
         pass
     actualizar_crono()
