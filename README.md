@@ -19,7 +19,7 @@ This is a very simple countdown timer app with basic controls to manage time and
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Pygame (for sound handling)
 
 ## Installation
