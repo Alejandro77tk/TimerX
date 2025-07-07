@@ -28,3 +28,14 @@ If you don’t have pygame installed, run:
 
 ```bash
 pip install pygame
+
+## Important
+
+If you want to install the .exe you must install the KodeMono-Regular.ttf file on your computer so you can enjoy the app properly
+
+
+
+
+
+
+By Alejandro Modin
