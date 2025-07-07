@@ -38,4 +38,4 @@ If you want to install the .exe you must install the KodeMono-Regular.ttf file o
 
 
 
-By Alejandro Modin
+By Alejandro Modino
